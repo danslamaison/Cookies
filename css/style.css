@@ -1,0 +1,82 @@
+body {
+  background-color:#d9b38c;
+  font-family: courier;
+}
+
+/* COMPANY NAME */
+
+h1 {
+  background-color:#3bb9ff;
+  border: 4px dotted yellow;
+  padding: 10px;
+  font-size: 30px;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-align: center;
+}
+
+/* COMPANY SLOGAN INFO */
+#slogan {
+  border-radius: 5px;
+  font-weight: 900;
+  text-align: center;
+  font-size: large;
+  font-style: italic;
+}
+
+/* LIST DATA INFO */
+
+h3 {
+  background-color:white;
+  padding: 10px 5px;
+}
+
+#ingredients {
+  background-color:lightblue;
+  border-radius: 5px;
+  padding-bottom: 1px;
+}
+
+#instructions {
+  background-color:#ff8a80;
+  border-radius: 5px;
+  padding-bottom: 2px;
+}
+
+#nutrition {
+  background-color:orange;
+  border-radius: 5px;
+  padding-bottom: 10px ;
+}
+
+#win {
+  background-color:lightgreen;
+  border-radius: 5px;
+  padding-bottom: 1px;
+}
+
+.subtitle {
+  border-radius: 5px 5px 0 0;
+  font-weight: 300;
+}
+
+td {
+  padding-left: 20px ;
+}
+
+th {
+  text-align: left;
+  padding: 0px 0px 0px 20px;
+}
+
+img {
+  margin: 10px 0 10px 20px;
+}
+
+/* FOOTER DETAILS */
+
+footer {
+  background-color:lightgrey;
+}
+
+
